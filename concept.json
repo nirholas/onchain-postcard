@@ -1,0 +1,11 @@
+{
+  "slug": "onchain-postcard",
+  "name": "Onchain Postcard",
+  "kind": "art",
+  "description": "Compose a signed postcard artifact with message, sender, place, and timestamp.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
