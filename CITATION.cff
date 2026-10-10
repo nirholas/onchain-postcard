@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "onchain-postcard"
+abstract: "Compose a signed postcard artifact with message, sender, place, and timestamp."
+repository-code: "https://github.com/nirholas/onchain-postcard"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
