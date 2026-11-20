@@ -8,7 +8,7 @@ Compose a signed postcard artifact with message, sender, place, and timestamp.
 
 - Source: https://github.com/nirholas/onchain-postcard
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
